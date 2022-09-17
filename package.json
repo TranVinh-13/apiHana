@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "VINH13",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "~4.16.1",
+    "jwt-decode": "^3.1.2"
+  }
+}
